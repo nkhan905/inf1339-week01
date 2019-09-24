@@ -1,2 +1,2 @@
 # inf1339-week01
-Demo repository for INF1339H assignment 2
+https://github.com/nkhan905/inf1339-week01#inf1339-week01
